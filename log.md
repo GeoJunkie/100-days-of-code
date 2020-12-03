@@ -31,4 +31,4 @@ I also decided to simplify troubleshooting and have a little fun, so I made a ba
 
 **Link(s) to work**: 
 * [Day 3: Toboggan Trajectory](https://github.com/GeoJunkie/advent-of-code-2020/blob/main/3)
-* [The index.html for the new index](https://github.com/GeoJunkie/advent-of-code-2020/blob/main/index.html) (If I can figure out how to make it display on GH pages, I will).
+* [The new index](https://geojunkie.github.io/advent-of-code-2020/)
